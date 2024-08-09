@@ -13,3 +13,4 @@ Projeto utilizando React e blibliotecas de testes para a criação e testes de u
 * TDD
 
 ## Visualização:
+[https://react-alura-sorter.vercel.app]
