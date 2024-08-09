@@ -1,4 +1,4 @@
-## Descriçao:
+## Descrição:
 Projeto utilizando React e blibliotecas de testes para a criação e testes de uma página de cadastro e sorteios de Amigos Secreto
 
 ## Principais Ferramentas:
